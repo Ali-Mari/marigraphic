@@ -20,4 +20,5 @@ Para que las personas puedan interactuar y crear sus propio elementos gráficos 
 * <https://godly.website/website/antonio-uve-799> un portafolio interactivo con diferentes elementos gráficos exparcidos que se puede armar. Pero uno no puede crear su propio elemento gráfico con qué interactuar.
 
 ### ¿Qué existe que puede inspirar la propuesta?
-![mockup1](https://github.com/user-attachments/assets/b2a9c90a-53bd-4dbb-9af6-25bc5b2a2960)
+![mockup1](https://github.com/user-attachments/assets/fdf2ab68-85c1-4af8-9a61-01f11cd794eb)
+
