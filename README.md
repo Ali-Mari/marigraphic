@@ -1,4 +1,4 @@
-# Mari-Design
+# Mari-Graphic
 
 ### ¿Para qué es esta propuesta?
 Para que las personas puedan interactuar y crear sus propio elementos gráficos mientra navega el portafolio del diseñador. Se centraría en la experiencia del usuario.
