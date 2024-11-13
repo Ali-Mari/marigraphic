@@ -1,14 +1,14 @@
 # Mari Graphic
 
 ### ¿Para qué es esta propuesta?
-Para que las personas puedan interactuar y crear sus propio elementos gráficos mientra navega el portafolio del diseñador. Se centraría en la experiencia del usuario.
+Para divulgar los trabajos de diseño e ilustraciones, con un estilo de una temática en común y llamativa, para que las personas puedan mirar y conocer mis trabajos destacados como diseñadora.
 
 ### ¿Para quiénes es esta propuesta?
 * Ilustradores (más probables)
-   * Creativos y fanaticos con los dibujos 2D, con o sin habilidad para el dibujo.
+   * Creativos y fanaticos con los dibujos 2D.
    * Entre 10-40 años.
    * Querer explorar más allá de su creatividad usando como referencia el portafolio. 
-* Empresas (menos probables)
+* Personas adultas (menos probables)
    * Entre 30-60 años.
    * Interesados en navegar el portafolio y conocer el talento de ellos.
 ### ¿Qué existe que es similar a la propuesta?
