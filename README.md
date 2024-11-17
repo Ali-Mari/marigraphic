@@ -22,6 +22,7 @@ Para divulgar los trabajos de diseño e ilustraciones, con un estilo de una tem�
 ### ¿Qué existe que puede inspirar la propuesta?
 ![mockup1](https://github.com/user-attachments/assets/fdf2ab68-85c1-4af8-9a61-01f11cd794eb)
 
-![fondo-blue-moon](https://github.com/user-attachments/assets/e720e47a-5d29-4f61-802b-9f20ca618aef)
+![fondo-blue-moon1](https://github.com/user-attachments/assets/378ad668-1e52-4cc9-be2c-8d0f2dcb332f)
+
 
 
