@@ -27,6 +27,11 @@
     align-items: center;    
 } 
 
+.masthead-avatar {
+  width: 200px;  /* Ajusta el ancho a 150 píxeles */  
+  height: auto;  /* Mantiene la proporción original de la altura */
+}
+
 .masthead-heading {
   font-size: 5rem;
 }
