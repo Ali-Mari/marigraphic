@@ -1,0 +1,83 @@
+[
+    {
+        "nombre": "Afiche Ready Player One",
+        "descripcion": "Un afiche fanart sobre la película Ready Player One. Además de una breve presentación sobre los videos de los créditos iniciales y finales de la película.",
+        "fecha": "2023",
+        "signo": "editorial",
+        "foto": "https://github.com/Ali-Mari/marigraphic/blob/main/img/rp1-1.png?raw=true",
+        "fotos": ["rp1-2.png","rp1-3.png","rp1-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Cafeteria La Subida",
+        "descripcion": "Un diseño de un conjunto de servilleta, individual y menú de la cafetería La Subida.",
+        "fecha": "2023",
+        "signo": "editorial",
+        "foto": "https://github.com/Ali-Mari/marigraphic/blob/main/img/cafeteria-subida-1.png?raw=true",
+        "fotos": ["cafeteria-subida-2.png","cafeteria-subida-3.png","cafeteria-subida-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Patron Cuis",
+        "descripcion": "Una ilustración de un patron sobre cobayos de diferentes temporadas.",
+        "fecha": "2023",
+        "signo": "ilustracion",
+        "foto": "https://github.com/Ali-Mari/marigraphic/blob/main/img/patron-cui-1.png?raw=true",
+        "fotos": ["patron-cui-2.png","patron-cui-3.png","patron-cui-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Jinshu",
+        "descripcion": "Un trabajo de un juego de mesa sobre la conquista de diferentes razas. Una mezcla de fantasía y conquista.",
+        "fecha": "2022",
+        "signo": "juego",
+        "foto": "https://github.com/Ali-Mari/marigraphic/blob/main/img/jinshu-1.png?raw=true",
+        "fotos": ["jinshu-2.png","jinshu-3.png","jinshu-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Gamer Quest",
+        "descripcion": "Un fanzine que habla sobre lo que experimentan y errores generales que los jugadores viven en un videojuego.",
+        "fecha": "2023",
+        "signo": "ilustracion",
+        "foto": "https://github.com/Ali-Mari/marigraphic/blob/main/img/gamer-quest-1.png?raw=true",
+        "fotos": ["gamer-quest-2.png","gamer-quest-3.png","gamer-quest-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Ilustraciones",
+        "descripcion": "Una ilustración y autoretrato de la diseñadora de este portafolio.",
+        "fecha": "2021",
+        "signo": "ilustracion",
+        "foto": "https://github.com/Ali-Mari/marigraphic/blob/main/img/dibujo-1.png?raw=true",
+        "fotos": ["dibujo-2.png","dibujo-3.png","dibujo-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Libro Material y Packaging",
+        "descripcion": "Un libro interactivo de los diferentes materiales que se usaron para fabricar packagings de diferentes productos.",
+        "fecha": "2023",
+        "signo": "editorial",
+        "foto": "https://github.com/Ali-Mari/marigraphic/blob/main/img/libro-packaging-1.png?raw=true",
+        "fotos": ["libro-packaging-2.png","libro-packaging-3.png","libro-packaging-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Libro Encuentro Tipografos",
+        "descripcion": "Un trabajo de un libro interactivo y explorativo sobre dos tipografos reconocidos y sus dos tipografías más populares cada uno.",
+        "fecha": "2023",
+        "signo": "editorial",
+        "foto": "https://github.com/Ali-Mari/marigraphic/blob/main/img/libro-tipografos-1.png?raw=true",
+        "fotos": ["libro-tipografos-2.png","libro-tipografos-3.png","libro-tipografos-4.png"],
+        "github": "https://github.com/ali-mari"
+    },    
+    {
+        "nombre": "Museo MAC",
+        "descripcion": "Un trabajo de rediseñar una nueva linea gráfica de un museo en Chile.",
+        "fecha": "2024",
+        "signo": "branding",
+        "foto": "https://github.com/Ali-Mari/marigraphic/blob/main/img/mac-1.png?raw=true",
+        "fotos": ["mac-2.png","mac-3.png","mac-4.png"],
+        "github": "https://github.com/ali-mari"
+    }
+]
