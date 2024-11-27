@@ -4,7 +4,7 @@
         "descripcion": "Un afiche fanart sobre la película Ready Player One. Además de una breve presentación sobre los videos de los créditos iniciales y finales de la película.",
         "fecha": "2023",
         "signo": "editorial",
-        "foto": "https://github.com/Ali-Mari/marigraphic/blob/main/img/rp1-1.png?raw=true",
+        "foto": "rp1-1.png",
         "fotos": ["rp1-2.png","rp1-3.png","rp1-4.png"],
         "github": "https://github.com/ali-mari",
         "enlace": "page.html"
@@ -14,7 +14,7 @@
         "descripcion": "Un diseño de un conjunto de servilleta, individual y menú de la cafetería La Subida.",
         "fecha": "2023",
         "signo": "editorial",
-        "foto": "https://github.com/Ali-Mari/marigraphic/blob/main/img/cafeteria-subida-1.png?raw=true",
+        "foto": "cafeteria-subida-1.png",
         "fotos": ["cafeteria-subida-2.png","cafeteria-subida-3.png","cafeteria-subida-4.png"],
         "github": "https://github.com/ali-mari",
         "enlace": "page1.html"
