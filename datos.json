@@ -47,7 +47,7 @@
         "foto": "https://raw.githubusercontent.com/Ali-Mari/marigraphic/refs/heads/main/img/dibujo-1.png",
         "fotos": ["dibujo-2.png","dibujo-3.png","dibujo-4.png"],
         "github": "https://github.com/ali-mari",
-        "enlace": "page5.html"
+        "enlace": "page4.html"
     },    
     {
         "nombre": "Museo MAC",
@@ -57,6 +57,6 @@
         "foto": "https://raw.githubusercontent.com/Ali-Mari/marigraphic/refs/heads/main/img/mac-1.png",
         "fotos": ["mac-2.png","mac-3.png","mac-4.png"],
         "github": "https://github.com/ali-mari",
-        "enlace": "page8.html"
+        "enlace": "page5.html"
     }
 ]
