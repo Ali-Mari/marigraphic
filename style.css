@@ -1,10 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url(https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Dongle&family=Fredoka:wght@300..700&family=Kosugi+Maru&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Dongle&family=Fredoka:wght@300..700&family=Kosugi+Maru&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 :root {
   --bs-info-rgb: 85, 130, 227;
-  --bs-font-sans-serif: "Poppins", sans-serif;
-  --bs-body-font-family: var(--bs-font-sans-serif);
+  --bs-title-font-family: 'Playfair Display', serif;
+  --bs-body-font-family: 'Roboto', sans-serif;
 }
+
+h1, h2, h3, h4, h5, h6, strong {
+  font-family: var(--bs-title-font-family);
+  text-transform: uppercase;
+}
+
+p, span, small, .body-text {
+  font-family: var(--bs-body-font-family);
+}
+
 
 .bg-dark-blue {  
   background-color: #0f1f53; /* Azul oscuro para el fondo */  
@@ -233,12 +244,12 @@ button { /*para cada cards del PORTAFOLIO*/
 }
 
 button:hover {
-  background-color: #f9fafb;
+  background-color: #ffffff;
 }
 
 button:focus {
-  outline: 2px solid rgba(0, 0, 0, 0.1);
-  outline-offset: 2px;
+  outline: 1px solid rgba(0, 0, 0, 0.1);
+  outline-offset: 1px;
 }
 
 button:focus-visible {
@@ -325,92 +336,3 @@ button:focus-visible {
   fill: white;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-.imagecarousel {
-  position: relative;
-  height: 233px;
-  margin-bottom: 30px;
-  display: flex;
-  width: 100%;
-}
-
-.imagecarousel img {
-  margin: 0px 25px;
-  box-shadow: 2px 2px 8px #8a8a8a;
-}
-
-.imagecarousel {
-  animation: bannermove 50s linear infinite;
-}
-
-@keyframes bannermove {
-   0% {
-    left: 0;
-  }
-  50% {
-    left: -100%;
-  }
-  100% {
-    left: 0;
-  }
-}
-
-
-
-
-
-
-
-
-
-
-
- /* Estilos para el modal */  
-    .modal {  
-        display: none;  
-        position: fixed;  
-        z-index: 1000;  
-        padding-top: 100px;  
-        left: 0;  
-        top: 0;  
-        width: 100%;  
-        height: 100%;  
-        overflow: auto;  
-        background-color: rgb(0,0,0); /* Fondo negro */  
-        background-color: rgba(0,0,0,0.9); /* Fondo negro con opacidad */  
-    }  
-
-    .modal-content {  
-        margin: auto;  
-        display: block;  
-        width: 80%;  
-        max-width: 700px;  
-    }  
-
-    .close {  
-        position: absolute;  
-        top: 15px;  
-        right: 35px;  
-        color: white;  
-        font-size: 40px;  
-        font-weight: bold;  
-        transition: 0.3s;  
-        cursor: pointer;  
-    }  
-
-    .close:hover,  
-    .close:focus {  
-        color: #bbb;  
-        text-decoration: none;  
-        cursor: pointer;  
-    }
