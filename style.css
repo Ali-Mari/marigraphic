@@ -35,7 +35,7 @@ html {  /* movimiento de la pagina cuando se selecciona algo en el navbar */
 
 
 .masthead { /*para el banner*/
-    background-image: url('https://github.com/user-attachments/assets/378ad668-1e52-4cc9-be2c-8d0f2dcb332f');
+    background-image: url('https://raw.githubusercontent.com/Ali-Mari/marigraphic/refs/heads/main/img/fondo-blue-moon.png');
     background-size: cover;
     background-position: center;
     height: 600px;
@@ -76,12 +76,6 @@ html {  /* movimiento de la pagina cuando se selecciona algo en el navbar */
     vertical-align: middle; /* Alinea verticalmente los íconos con el texto */  
     width: 30px; /* Ajusta el tamaño del ícono */  
     height: 30px; /* Ajusta el tamaño del ícono */  
-}
-
-.page-section-subheading { /*para los subtitulos debajo de cada titulo de sección*/
-  font-size: 1.25rem;
-  margin-top: 25px;
-  margin-bottom: 40px;
 }
 
 
