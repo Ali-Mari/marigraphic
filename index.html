@@ -74,9 +74,9 @@
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masthead Heading y Subheading-->
                 <img class="masthead-avatar mb-5" src="https://raw.githubusercontent.com/Ali-Mari/marigraphic/refs/heads/main/img/foto-yo-art.png" alt="..." />
-                <h2 class="masthead-subheading text-uppercase mb-0">Portafolio</h2>
-                <h1 class="masthead-heading font-weight-light mb-0">Mari Graphic</h1>
-                <p class="masthead-subheading font-weight-light mb-0">Diseñadora - Ilustradora</p>
+                <h2 class="masthead-subheading text-uppercase mb-0" style="text-shadow: 2px 2px 5px rgb(6,64,122);">Portafolio</h2>
+                <h1 class="masthead-heading font-weight-light mb-0" style="text-shadow: 2px 2px 5px rgb(6,64,122);">Mari Graphic</h1>
+                <p class="masthead-subheading font-weight-light mb-0" style="text-shadow: 2px 2px 5px rgb(6,64,122);">Diseñadora - Ilustradora</p>
             </div>
         </header>
 
@@ -180,7 +180,7 @@
                             card.innerHTML = `  
                                 <img src="${item.foto}" alt="..." style="width: 110%; height: auto; border-radius: 0.5rem;">  
                                 <div class="card__content">  
-                                    <p class="card__title text-white">${item.nombre}</p>  
+                                    <h6 class="card__title text-white">${item.nombre}</h6>  
                                     <p class="card__description text-white">${item.descripcion}</p>  
                                     <button onclick="window.location.href='${item.enlace}'">Leer más</button>  
                                 </div>  
