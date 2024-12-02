@@ -1,7 +1,7 @@
 [
     {
         "nombre": "Afiche Ready Player One",
-        "descripcion": "Un afiche fanart sobre la película Ready Player One. Además de una breve presentación sobre los videos de los créditos iniciales y finales de la película.",
+        "descripcion": "Afiche fanart sobre la película Ready Player One. Además de una breve presentación sobre los videos de los créditos iniciales y finales de la película.",
         "fecha": "2023",
         "signo": "editorial",
         "foto": "https://raw.githubusercontent.com/Ali-Mari/marigraphic/refs/heads/main/img/rp1-1.png",
@@ -11,7 +11,7 @@
     },
     {
         "nombre": "Cafeteria La Subida",
-        "descripcion": "Un diseño de un conjunto de servilleta, individual y menú de la cafetería La Subida.",
+        "descripcion": "Diseño sobre un conjunto de servilleta, individual y menú de la cafetería La Subida.",
         "fecha": "2023",
         "signo": "editorial",
         "foto": "https://raw.githubusercontent.com/Ali-Mari/marigraphic/refs/heads/main/img/cafeteria-subida-1.png",
@@ -21,7 +21,7 @@
     },
     {
         "nombre": "Patron Cuis",
-        "descripcion": "Una ilustración de un patron sobre cobayos de diferentes temporadas.",
+        "descripcion": "Ilustraciones de patrones sobre cobayos de diferentes temporadas.",
         "fecha": "2023",
         "signo": "ilustracion",
         "foto": "https://raw.githubusercontent.com/Ali-Mari/marigraphic/refs/heads/main/img/patron-cui-1.png",
@@ -31,7 +31,7 @@
     },
     {
         "nombre": "Jinshu",
-        "descripcion": "Un trabajo de un juego de mesa sobre la conquista de diferentes razas. Una mezcla de fantasía y conquista.",
+        "descripcion": "Trabajo de un juego de mesa sobre la conquista de diferentes razas. Una mezcla de fantasía y conquista.",
         "fecha": "2022",
         "signo": "juego",
         "foto": "https://raw.githubusercontent.com/Ali-Mari/marigraphic/refs/heads/main/img/jinshu-1.png",
@@ -41,7 +41,7 @@
     },
     {
         "nombre": "Ilustraciones",
-        "descripcion": "Una ilustración y autoretrato de la diseñadora de este portafolio.",
+        "descripcion": "Ilustraciones y autoretratos de la diseñadora de este portafolio.",
         "fecha": "2021",
         "signo": "ilustracion",
         "foto": "https://raw.githubusercontent.com/Ali-Mari/marigraphic/refs/heads/main/img/dibujo-1.png",
@@ -51,12 +51,42 @@
     },    
     {
         "nombre": "Museo MAC",
-        "descripcion": "Un trabajo de rediseñar una nueva linea gráfica de un museo en Chile.",
+        "descripcion": "Trabajo de rediseñar una nueva linea gráfica de un museo en Chile.",
         "fecha": "2024",
         "signo": "branding",
         "foto": "https://raw.githubusercontent.com/Ali-Mari/marigraphic/refs/heads/main/img/mac-1.png",
         "fotos": ["mac-2.png","mac-3.png","mac-4.png"],
         "github": "https://github.com/ali-mari",
         "enlace": "page5.html"
+    },
+    {
+        "nombre": "Libro Materiales y Packaging",
+        "descripcion": "Libro interactivo de los diferentes materiales que se usaron para fabricar packagings de diferentes productos.",
+        "fecha": "2023",
+        "signo": "editorial",
+        "foto": "https://raw.githubusercontent.com/Ali-Mari/marigraphic/refs/heads/main/img/libro-packaging-1.png",
+        "fotos": ["libro-packaging-2.png","libro-packaging-3.png","libro-packaging-4.png"],
+        "github": "https://github.com/ali-mari",
+        "enlace": "page6.html"
+    },
+    {
+        "nombre": "Libro Encuentro de Tipógrafos",
+        "descripcion": "Libro interactivo y explorativo sobre dos tipografos reconocidos y sus dos tipografías más populares de cada uno.",
+        "fecha": "2023",
+        "signo": "editorial",
+        "foto": "https://raw.githubusercontent.com/Ali-Mari/marigraphic/refs/heads/main/img/libro-tipografos-1.png",
+        "fotos": ["libro-tipografos-2.png","libro-tipografos-3.png","libro-tipografos-4.png"],
+        "github": "https://github.com/ali-mari",
+        "enlace": "page7.html"
+    },
+    {
+        "nombre": "Gamer Quest",
+        "descripcion": "Fanzine que narra sobre lo que experimentan los jugadores y sus problemas comunes cuando viven jungando un videojuego.",
+        "fecha": "2023",
+        "signo": "ilustracion",
+        "foto": "https://raw.githubusercontent.com/Ali-Mari/marigraphic/refs/heads/main/img/gamer-quest-1.png",
+        "fotos": ["gamer-quest-2.png","gamer-quest-3.png","gamer-quest-4.png"],
+        "github": "https://github.com/ali-mari",
+        "enlace": "page8.html"
     }
 ]
